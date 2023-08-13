@@ -33,7 +33,6 @@ Spin the server
 ## Running Tests
 
 To run tests, run the following command.
-
 For specific `pnpm test / cy / test:cy:e2e` make sure the server already spin before do a test.
 
 Do a complete test; unit testing & e2e
@@ -90,3 +89,4 @@ For Styles
 - [Nuxt Tailwind Config](https://tailwindcss.nuxtjs.org/getting-started/setup)
 - [Tailwind](https://tailwindcss.com/docs)
 - [Nuxt Chakra-UI](https://next.vue.chakra-ui.com/getting-started)
+- [@chakra-ui/nuxt-nex](https://github.com/chakra-ui/chakra-ui-vue-next/releases)
